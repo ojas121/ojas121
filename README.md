@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ojas</h1>
 <h3 align="center">An Aerospace Engineering student with a passion for computing</h3>
 
-- 🔭 I’m currently working on **my final year of my Bachelor's degree**
+- 🔭 **I’m currently working on** my final year of my Bachelor's degree
 
-- 📫 How to reach me **ojas@mandlekar.me**
+- 📫 Reach me at **ojas@mandlekar.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
