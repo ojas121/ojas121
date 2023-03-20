@@ -39,6 +39,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats-ojas121.vercel.app/api/top-langs/?username=ojas121&langs_count=10&layout=compact" />
+    <img src="https://github-readme-stats-ojas121.vercel.app/api/top-langs/?username=ojas121&langs_count=10&layout=compact&hide=jupyter%20notebook" />
   </a>
 </p>
