@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ojas</h1>
 <h3 align="center">An Aerospace Engineer with a passion for computing</h3>
 
-- 🔭 **I’m currently** in my first semester of my Master's degree in Robotics, Cognition, Intelligence at TUM
+- 🔭 **I’m currently** working towards my Master's degree in Robotics, Cognition, Intelligence at TUM
 - 📫 Reach me at **ojas@mandlekar.me**
 
 <h3 align="left">Connect with me:</h3>
